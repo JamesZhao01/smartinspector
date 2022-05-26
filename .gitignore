@@ -1,4 +1,10 @@
 data*.zip
 data/
 data2/
+new_specs/
+original_data_cleaner/new_specs*/
 *.json
+
+*.npy
+*/*.npy
+*.zip
